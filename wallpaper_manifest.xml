@@ -634,6 +634,60 @@
             url="http://drewgaren.com/walls/lg/spectrum_024.jpeg" />
     </category>
 
+    <category name="Asus" >
+
+        <wallpaper
+            author="transformer"
+            url="http://drewgaren.com/walls/asus/asus-trans_001.jpeg" />
+
+        <wallpaper
+            author="transformer"
+            url="http://drewgaren.com/walls/asus/asus-trans_002.jpeg" />
+
+        <wallpaper
+            author="transformer"
+            url="http://drewgaren.com/walls/asus/asus-trans_003.jpeg" />
+
+        <wallpaper
+            author="transformer"
+            url="http://drewgaren.com/walls/asus/asus-trans_004.jpeg" />
+
+        <wallpaper
+            author="transformer"
+            url="http://drewgaren.com/walls/asus/asus-trans_005.jpeg" />
+
+        <wallpaper
+            author="transformer"
+            url="http://drewgaren.com/walls/asus/asus-trans_006.jpeg" />
+    </category>
+    
+    <category name="Dell" >
+
+        <wallpaper
+            author="streak"
+            url="http://drewgaren.com/walls/dell/streak5_002.jpeg" />
+
+        <wallpaper
+            author="streak"
+            url="http://drewgaren.com/walls/dell/streak5_003.jpeg" />
+
+        <wallpaper
+            author="streak"
+            url="http://drewgaren.com/walls/dell/streak5_004.jpeg" />
+
+        <wallpaper
+            author="streak"
+            url="http://drewgaren.com/walls/dell/streak5_005.jpeg" />
+
+        <wallpaper
+            author="streak"
+            url="http://drewgaren.com/walls/dell/streak5_006.jpeg" />
+
+        <wallpaper
+            author="streak"
+            url="http://drewgaren.com/walls/dell/streak5_007.jpeg" />
+    </category>
+
     <category name="CyanogenMod" >
 
         <wallpaper
