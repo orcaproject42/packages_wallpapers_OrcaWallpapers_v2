@@ -1,18 +1,476 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
 
-    <!--
-         Categories accept:
-        id="<string>" unique id string
-        name="<string>" visual name
-        
-        Wallpapers accept:
-        url="<url of wallpaper>"
-        thumbUrl="<url of thumbnail>"
-        author="<author>" may be used for filtering later
-        date="<date added>" may be used for filtering later
-        name="<wallpaper name">
-    -->
+    <category name="ORCA HD" >
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_1.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_2.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_3.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_4.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_5.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_6.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_7.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_8.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_9.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_10.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_11.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_12.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_13.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_14.jpeg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_15.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_16.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_17.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_18.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_19.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_20.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_21.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_22.jpg" />
+    </category>
+    
+    <category name="Android" >
+
+        <wallpaper
+            author="android1"
+            url="http://drewgaren.com/walls/android/a_001.jpeg" />
+
+        <wallpaper
+            author="android1"
+            url="http://drewgaren.com/walls/android/a_002.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_001.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_002.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_003.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_004.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_005.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_006.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/wallpaper_9.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_007.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_008.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_009.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_010.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_011.jpeg" />
+
+        <wallpaper
+            author="cupcake"
+            url="http://drewgaren.com/walls/android/cupcake_012.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_001.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_002.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_003.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_004.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_005.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_006.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_007.jpeg" />
+            
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_008.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_009.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_010.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_011.jpeg" />
+             
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_012.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_013.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_014.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_015.jpeg" />
+            
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_016.jpeg" />
+
+        <wallpaper
+            author="eclair"
+            url="http://drewgaren.com/walls/android/eclair_017.jpeg" />
+
+        <wallpaper
+            author="honeycomb"
+            url="http://drewgaren.com/walls/android/honeycomb_001.jpeg" />
+
+        <wallpaper
+            author="honeycomb"
+            url="http://drewgaren.com/walls/android/honeycomb_002.jpeg" />
+            
+        <wallpaper
+            author="honeycomb"
+            url="http://drewgaren.com/walls/android/honeycomb_003.jpeg" />
+
+        <wallpaper
+            author="honeycomb"
+            url="http://drewgaren.com/walls/android/honeycomb_004.jpeg" />
+
+        <wallpaper
+            author="honeycomb"
+            url="http://drewgaren.com/walls/android/honeycomb_005.jpeg" />
+
+        <wallpaper
+            author="honeycomb"
+            url="http://drewgaren.com/walls/android/honeycomb_006.jpeg" />
+            
+        <wallpaper
+            author="honeycomb"
+            url="http://drewgaren.com/walls/android/honeycomb_007.jpeg" />
+
+        <wallpaper
+            author="honeycomb"
+            url="http://drewgaren.com/walls/android/honeycomb_008.jpeg" />
+
+        <wallpaper
+            author="honeycomb"
+            url="http://drewgaren.com/walls/android/honeycomb_009.jpeg" />
+
+        <wallpaper
+            author="ics"
+            url="http://drewgaren.com/walls/android/ics_001.jpeg" />
+            
+        <wallpaper
+            author="ics"
+            url="http://drewgaren.com/walls/android/ics_002.jpeg" />
+
+        <wallpaper
+            author="ics"
+            url="http://drewgaren.com/walls/android/ics_003.jpeg" />
+
+        <wallpaper
+            author="ics"
+            url="http://drewgaren.com/walls/android/ics_005.jpeg" />
+
+        <wallpaper
+            author="ics"
+            url="http://drewgaren.com/walls/android/ics_006.jpeg" />
+            
+        <wallpaper
+            author="ics"
+            url="http://drewgaren.com/walls/android/ics_007.jpeg" />
+
+        <wallpaper
+            author="ics"
+            url="http://drewgaren.com/walls/android/ics_008.jpeg" />
+
+        <wallpaper
+            author="ics"
+            url="http://drewgaren.com/walls/android/ics_009.jpeg" />
+            
+        <wallpaper
+            author="ics"
+            url="http://drewgaren.com/walls/android/ics_011.jpeg" />
+    </category>
+
+    <category name="LG Optimus G" >
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_01.png" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_02.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_03.png" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_04.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_05.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_07.png" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_08.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_09.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_10.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_11.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_12.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_13.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_14.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_15.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_16.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_17.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_18.jpg" />
+
+        <wallpaper
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_19.jpg" />
+    </category>
+
+    <category name="CyanogenMod" >
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_alexanderwislsperger_melbourne.jpg" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_ashersimonds_cmpatternholodark.png" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_ashersimonds_cmpatternhololight.png" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_beki1984_colorwave.png" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_eklipze_cheshireyellow.jpg" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_eklipze_notquitemono.jpg" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_eklipze_technicolorstripes.jpg" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_manup456_cid3d.jpg" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_mathewhanley_defensivebutterfly.jpg" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_mathewhanley_earlycorn.jpg" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_michaelmedina_beachlogs.jpg" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_nebkat_bokeh.jpg" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_prash_ohaimark.png" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_th_shadowchess.jpg" />
+
+        <wallpaper
+            author="cm10"
+            url="http://drewgaren.com/walls/CM/wallpaper_tylerhodge_blueperfection.jpg" />
+    </category>
+    
+    <category name="Paranoid" >
+
+        <wallpaper
+            author="paranoid"
+            url="http://drewgaren.com/walls/paranoid/wallpaper_0.jpg" />
+
+        <wallpaper
+            author="paranoid"
+            url="http://drewgaren.com/walls/paranoid/wallpaper_1.jpg" />
+
+        <wallpaper
+            author="paranoid"
+            url="http://drewgaren.com/walls/paranoid/wallpaper_2.jpg" />
+
+        <wallpaper
+            author="paranoid"
+            url="http://drewgaren.com/walls/paranoid/wallpaper_3.jpg" />
+
+        <wallpaper
+            author="paranoid"
+            url="http://drewgaren.com/walls/paranoid/wallpaper_4.jpg" />
+
+        <wallpaper
+            author="paranoid"
+            url="http://drewgaren.com/walls/paranoid/wallpaper_5.jpg" />
+
+        <wallpaper
+            author="paranoid"
+            url="http://drewgaren.com/walls/paranoid/wallpaper_6.jpg" />
+
+        <wallpaper
+            author="paranoid"
+            url="http://drewgaren.com/walls/paranoid/wallpaper_7.jpg" />
+
+        <wallpaper
+            author="paranoid"
+            url="http://drewgaren.com/walls/paranoid/wallpaper_8.jpg" />
+    </category>
 
     <category name="AOKP" >
 
@@ -75,57 +533,141 @@
         <wallpaper
             author="kwes1020"
             url="http://aokp.co/wallpapers/kwes1020_aokpwp2.png" />
+
+        <wallpaper
+            author="gleezbo"
+            url="http://aokp.co/wallpapers/gleezbo_orb.png" />
+
+        <wallpaper
+            author="gleezbo"
+            url="http://aokp.co/wallpapers/gleezbo_space.png" />
+
+        <wallpaper
+            author="gleezbo"
+            url="http://aokp.co/wallpapers/gleezbo_space_android.png" />
+
+        <wallpaper
+            author="gleezbo"
+            url="http://aokp.co/wallpapers/gleezbo_wallpaper_white2.png" />
+
+        <wallpaper
+            author="gleezbo"
+            url="http://aokp.co/wallpapers/gleezbo_weirddeded.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_bw_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_bw_white.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_dark_blue_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_dark_blue_white.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_dark_green_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_dark_green_white.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_dark_pink_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_dark_pink_white.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_frost_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_frost_white.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_green_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_green_white.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_light_blue_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_light_blue_white.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_light_pink_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_light_pink_white.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_orange_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_orange_white.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_purple_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_purple_white.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_red_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_red_white.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_yellow_black.png" />
+
+        <wallpaper
+            author="dnnysaenz"
+            url="http://aokp.co/wallpapers/dnnysaenz_yellow_white.png" />
+
+        <wallpaper
+            author="daxxmax"
+            url="http://aokp.co/wallpapers/daxxmax_aokp_galaxy.jpg" />
     </category>
 
-    <category name="Older Wallpapers" >
+    <category name="Newest" >
 
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_blue.jpg" />
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_02.jpg" />
 
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_green.jpg" />
+            author="orca"
+            url="http://drewgaren.com/walls/orca/wallpaper_22.jpg" />
 
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_orange.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_setyourunicornfree.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x1.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x2.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x3.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x4.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x5.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x6.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensi_star.jpg" />
-
-        <wallpaper
-            author="SamsungClay"
-            url="http://aokp.co/wallpapers/samsungclay02.jpg" />
+            author="optimusg"
+            url="http://drewgaren.com/walls/Optimus_G/wallpaper_11.jpg" />
     </category>
 
 </wallpapers>
